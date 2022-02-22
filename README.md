@@ -1,5 +1,4 @@
 # Story-Generator
-
 # 作业练习
 # 一个自动生成故事的web application
 # 1.独立的网站框架
