@@ -31,3 +31,5 @@ def index():
     for i in range(5):
         storys.append(story())
     return render_template("index.html", storys = storys)
+
+    ////
